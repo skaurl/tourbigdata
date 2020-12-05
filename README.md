@@ -1,4 +1,4 @@
-# tourbigdata
+# 2020년 문화 관광 빅 데이터 분석대회
 
 <div>
 <img src="https://user-images.githubusercontent.com/55614265/87290258-babcd780-c538-11ea-98b2-683c259fd47d.png">
